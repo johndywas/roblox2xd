@@ -18,7 +18,7 @@ class Discord(object):
                 url=self.webhook_api,
                 data={
                     "content": dedent(message),
-                    "username": "miau",
-                    "avatar_url": "https://cdn.discordapp.com/attachments/1011810855895179354/1317598510534754465/IMG_3753.jpg?ex=675f44bc&is=675df33c&hm=c5b85b4773614e3ac51b4ed284b811fe637556655e30c36843a2bfaab63c883e&",
+                    "username": "hola tonotos",
+                    "avatar_url": "https://i.pinimg.com/originals/f9/5a/32/f95a322659e52676449cfb96caa025ae.jpg",
                 },
             )
